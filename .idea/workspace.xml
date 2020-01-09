@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ec73840-27e4-42dd-a820-90c3ca301baa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SVfuN7XXKcCgzRKzhUFHNNZkYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="C:\Users\user\.m2\repository" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$MAVEN_REPOSITORY$" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jerel\Documents\L1DX\jira\src\rmf\rel\behaviours" />
+      <recent name="C:\Users\Jerel\Documents\L1DX\jira\src\rmf\rel\postfunctions" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ec73840-27e4-42dd-a820-90c3ca301baa" name="Default Changelist" comment="" />
+      <created>1571653906399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571653906399</updated>
+      <workItem from="1571653911488" duration="1564000" />
+      <workItem from="1571705897524" duration="5450000" />
+      <workItem from="1571728417364" duration="3462000" />
+      <workItem from="1571799635007" duration="3212000" />
+      <workItem from="1571975247906" duration="10020000" />
+      <workItem from="1572321341553" duration="3515000" />
+      <workItem from="1572400794567" duration="55731000" />
+      <workItem from="1574128119746" duration="48483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="207" key="#HTTP_Proxy" timestamp="1577757205976">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="207" key="#HTTP_Proxy/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577757205976" />
+    <state x="2660" y="265" key="FileChooserDialogImpl" timestamp="1577765055768">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577691796685" />
+    <state x="2660" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577765055768" />
+    <state x="2383" y="166" key="SettingsEditor" timestamp="1577757462046">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2383" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577757462046" />
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1577688495765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577688495765" />
+    <state x="2607" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577757403535">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2607" y="490" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577757403535" />
+    <state x="2587" y="154" width="585" height="732" key="find.popup" timestamp="1577763667581">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="585" height="732" key="find.popup/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577705472361" />
+    <state x="2587" y="154" width="585" height="732" key="find.popup/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577763667581" />
+    <state x="2262" y="147" key="new project wizard" timestamp="1577765063883">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="147" key="new project wizard/0.0.1920.1040/1920.0.1920.1040/-1080.0.1080.1880@1920.0.1920.1040" timestamp="1577765063883" />
+  </component>
+</project>
