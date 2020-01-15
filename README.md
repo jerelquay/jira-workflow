@@ -1,4 +1,5 @@
-Jira Workflow
+Jira Workflow for Jira Core
+
 The groovy scripts triggers cmd/APIs to execute task/actions
 
 - Support integration with SVN
