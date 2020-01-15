@@ -50,7 +50,7 @@ try {
             def obsPass = JiraUtils.obfuscate(pass)
             JiraUtils.updateCustomFieldValue(issue, CustomAppText.SCM_USER_PID, obsPass)
             isSuccess = JiraUtils.getScmUtils(issue).createRepos(scmHostname, appName, obsPass)
-    }
+        }
     }
     
     if (isSuccess) {
